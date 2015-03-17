@@ -2,7 +2,7 @@ Package.describe({
   name: 'andi:session-augumented',
   version: '0.0.1',
   // Brief, one-line summary of the package.
-  summary: '',
+  summary: 'Adds a few usefull methods on the Session object',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/andi-bute/session-augumented.git',
   // By default, Meteor will default to using README.md for documentation.
