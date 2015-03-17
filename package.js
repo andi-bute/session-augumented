@@ -13,6 +13,7 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('1.0.3.2');
   api.use('minimongo');
+  api.use('mongo');
   api.use('session');
   api.addFiles('andi:session-augumented.js', 'client');
 });
